@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secondreact/static/css/main.e6c13ad2.css",
+    "main.js": "/secondreact/static/js/main.a00d0e75.js",
+    "static/js/453.7474c545.chunk.js": "/secondreact/static/js/453.7474c545.chunk.js",
+    "index.html": "/secondreact/index.html",
+    "main.e6c13ad2.css.map": "/secondreact/static/css/main.e6c13ad2.css.map",
+    "main.a00d0e75.js.map": "/secondreact/static/js/main.a00d0e75.js.map",
+    "453.7474c545.chunk.js.map": "/secondreact/static/js/453.7474c545.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a00d0e75.js"
+  ]
+}
